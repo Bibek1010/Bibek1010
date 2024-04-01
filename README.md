@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bibek1010 studying at the Institute of Technical Education and Research (ITER).
-- 👀 I’m interested in Gsmes & programming
+- 👀 I’m interested in Games & programming
 - 🌱 I’m currently learning Java & Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email me at bibeksethy10@gmail.com
